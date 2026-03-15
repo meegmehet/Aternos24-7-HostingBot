@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bot1",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "dogukanadal",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "meegmehetSMP.aternos.me",
+    "port": 38486,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
