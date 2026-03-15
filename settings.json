@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "meegmehetSMP.aternos.me:38486",
+    "ip": "meegmehetSMP.aternos.me",
     "port": 38486,
     "version": "1.21.1",
     "try-creative": false
